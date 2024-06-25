@@ -146,7 +146,7 @@ Lastly, use the correct variable to print the customer’s total for their purch
 
 You should now see a number for the customer’s total. If you’re seeing something else unexpected or receiving an error message, read through the error and double-check your code!
 
-Project Extensions
+### Project Extensions
 
 - [x] TASK 18
 
